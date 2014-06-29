@@ -1,0 +1,6 @@
+C:\Users\kalimar\Downloads\Test-Driven-Development-Demo-Homework\bin\Debug\Poker.exe
+C:\Users\kalimar\Downloads\Test-Driven-Development-Demo-Homework\bin\Debug\Poker.pdb
+C:\Users\kalimar\Downloads\Test-Driven-Development-Demo-Homework\obj\Debug\Poker.exe
+C:\Users\kalimar\Downloads\Test-Driven-Development-Demo-Homework\obj\Debug\Poker.pdb
+E:\Test\obj\Debug\Poker.exe
+E:\Test\obj\Debug\Poker.pdb

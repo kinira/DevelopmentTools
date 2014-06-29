@@ -1,0 +1,8 @@
+C:\Users\kalimar\Downloads\Test-Driven-Development-Demo-Homework\PokerTests\obj\Debug\PokerTests.csprojResolveAssemblyReference.cache
+C:\Users\kalimar\Downloads\Test-Driven-Development-Demo-Homework\PokerTests\bin\Debug\PokerTests.dll.config
+C:\Users\kalimar\Downloads\Test-Driven-Development-Demo-Homework\PokerTests\bin\Debug\PokerTests.dll
+C:\Users\kalimar\Downloads\Test-Driven-Development-Demo-Homework\PokerTests\bin\Debug\PokerTests.pdb
+C:\Users\kalimar\Downloads\Test-Driven-Development-Demo-Homework\PokerTests\bin\Debug\Poker.exe
+C:\Users\kalimar\Downloads\Test-Driven-Development-Demo-Homework\PokerTests\bin\Debug\Poker.pdb
+C:\Users\kalimar\Downloads\Test-Driven-Development-Demo-Homework\PokerTests\obj\Debug\PokerTests.dll
+C:\Users\kalimar\Downloads\Test-Driven-Development-Demo-Homework\PokerTests\obj\Debug\PokerTests.pdb
